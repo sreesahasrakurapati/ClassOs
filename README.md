@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClassOS
 
 A shared workspace for a college class section. The class representative (CR) sets up
